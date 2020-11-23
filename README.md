@@ -15,9 +15,10 @@ Our project can be found at https://github.com/daviidy/Micro-Reddit
 ## To run the project in local
 
 - clone the repository from here [repo link](https://github.com/daviidy/Micro-Reddit)
-- Open terminal and navigate to root folder (/blog).
+- Open terminal and navigate to root folder (/Micro-Reddit).
 - Once in root folder
-  - type: rails s in terminal and in browser
+  - type: `rails s` in terminal and in browser
+  - run `bundle install`, `rails db:create`, and `rails db:migrate`
   - type localhost:3000/ in address bar.
 
 ## 👨🏽‍💻 👨🏿‍💻 Creators
